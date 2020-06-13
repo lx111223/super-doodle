@@ -1,3 +1,4 @@
+- DOMAIN-SUFFIX,evo-cn.7layers.com,direct
 - DOMAIN-SUFFIX,3gpp.org,Proxy
 - DOMAIN-SUFFIX,ptcrb.com,Proxy
 - DOMAIN-SUFFIX,globalcertificationforum.org,Proxy
@@ -7,3 +8,4 @@
 - DOMAIN-SUFFIX,omaspecworks.org,Proxy
 - DOMAIN-SUFFIX,openmobilealliance.org,Proxy
 - DOMAIN-SUFFIX,rohde-schwarz.com,Proxy
+- DOMAIN-SUFFIX,v2ex.com,direct
