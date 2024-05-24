@@ -1,14 +1,6 @@
 var proxy = "PROXY hkhkg01proxy02.sw.lenovo.com:3128";
 
 var rules = [
-    "t.me",
-	"tx.me",
-	"tdesktop.com",
-	"telegra.ph",
-	"telegram.me",
-	"telegram.org",
-	"telegram-cdn.org",
-	"telesco.pe",
     "*.akamaiapis.net",
     "*.anaplan-cdn.io",
     "*.app.anaplan.com",
