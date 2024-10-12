@@ -1,3 +1,4 @@
   - RULE-SET, googleapis.cn, Proxy
   - RULE-SET, googleapis.com, Proxy
   - RULE-SET, xn--ngstr-lra8j.com, Proxy
+  - DOMAIN-SUFFIX, qq.com, PROXY
