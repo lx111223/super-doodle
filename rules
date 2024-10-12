@@ -1,12 +1,3 @@
-- DOMAIN-SUFFIX,3gpp.org,Proxy
-- DOMAIN-SUFFIX,ptcrb.com,Proxy
-- DOMAIN-SUFFIX,globalcertificationforum.org,Proxy
-- DOMAIN-SUFFIX,etsi.org,Proxy
-- DOMAIN-SUFFIX,gsma.com,Proxy
-- DOMAIN-SUFFIX,ctia.org,Proxy
-- DOMAIN-SUFFIX,omaspecworks.org,Proxy
-- DOMAIN-SUFFIX,openmobilealliance.org,Proxy
-- DOMAIN-SUFFIX,googleapis.cn,Proxy
-- DOMAIN-SUFFIX,googleapis.com,Proxy
-- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxy
-- RULE-SET, DIRECT, DIRECT
+- DOMAIN-SUFFIX, googleapis.cn, Proxy
+- DOMAIN-SUFFIX, googleapis.com, Proxy
+- DOMAIN-SUFFIX, xn--ngstr-lra8j.com, Proxy
