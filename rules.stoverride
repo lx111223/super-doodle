@@ -1,3 +1,4 @@
 name: 'MICU emby直连'
-xxxx:
+rules:
   - DOMAIN-SUFFIX,micu.hk,🎯Direct
+  - DOMAIN-SUFFIX,micu.hk,AI
