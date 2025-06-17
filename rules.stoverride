@@ -1,2 +1,3 @@
+name: MICU emby直连
 rules:
   - DOMAIN-SUFFIX,micu.hk,DIRECT
