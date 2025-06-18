@@ -1,7 +1,4 @@
 name: 'MICU emby直连'
 desc: MICU emby 流量直连
-icon: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Direct.png
-category: 直连
-date: "2025-06-17 12:57:50"
 rules:
   - DOMAIN-SUFFIX,micu.hk,🎯Direct
